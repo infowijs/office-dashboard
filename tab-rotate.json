@@ -1,0 +1,18 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": true,
+  "websites": [
+    {
+      "url": "https://infowijs.atlassian.net/jira/software/projects/PROD/boards/30",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 65
+    },
+    {
+      "url": "https://infowijs.atlassian.net/jira/software/projects/PROD/boards/30",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 1200
+    }
+  ]
+}
